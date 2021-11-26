@@ -1,0 +1,385 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.2.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de linha de comando (mais recente primeiro):
+:q!
+|2,0,1637625446,,"q!"
+:q'
+|2,0,1637625221,,"q'"
+:q
+|2,0,1637346873,,"q"
+:w
+|2,0,1637346000,,"w"
+:wq
+|2,0,1637344559,,"wq"
+:w pollocaculator.c
+|2,0,1637343228,,"w pollocaculator.c"
+:syntax on
+|2,0,1637343190,,"syntax on"
+:w programa.c
+|2,0,1636738206,,"w programa.c"
+:!
+|2,0,1636737798,,"!"
+:Q
+|2,0,1636737553,,"Q"
+:w 
+|2,0,1636737378,,"w "
+:W 
+|2,0,1636737373,,"W "
+:W
+|2,0,1636737351,,"W"
+:Primeiro VI w
+|2,0,1636737240,,"Primeiro VI w"
+
+# Histórico de expressões de busca (mais recente primeiro):
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+""-	CHAR	0
+	"
+|3,1,36,0,1,0,1637345890,"\""
+
+# Marcas nos arquivos:
+'0  15  0  ~/pollocaculator.c
+|4,48,15,0,1637625446,"~/pollocaculator.c"
+'1  1  0  ~/pollocalculator.c
+|4,49,1,0,1637625298,"~/pollocalculator.c"
+'2  1  0  ~/pollocalculator.c
+|4,50,1,0,1637625224,"~/pollocalculator.c"
+'3  6  19  ~/pollomatico.c
+|4,51,6,19,1637625149,"~/pollomatico.c"
+'4  29  0  ~/lospollos.c
+|4,52,29,0,1637624877,"~/lospollos.c"
+'5  14  1  ~/pollocaculator.c
+|4,53,14,1,1637346873,"~/pollocaculator.c"
+'6  14  1  ~/pollocaculator.c
+|4,54,14,1,1637346873,"~/pollocaculator.c"
+'7  1  0  ~/pollocalculator.c
+|4,55,1,0,1637346865,"~/pollocalculator.c"
+'8  1  0  ~/pollocalculator.c
+|4,56,1,0,1637346865,"~/pollocalculator.c"
+'9  9  16  ~/lospollos.c
+|4,57,9,16,1637346852,"~/lospollos.c"
+
+# Lista de saltos (mais recente primeiro):
+-'  15  0  ~/pollocaculator.c
+|4,39,15,0,1637625446,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637625308,"~/pollocaculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637625298,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637625298,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637625224,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637625224,"~/pollocalculator.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  6  19  ~/pollomatico.c
+|4,39,6,19,1637625149,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  1  0  ~/pollomatico.c
+|4,39,1,0,1637625123,"~/pollomatico.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  29  0  ~/lospollos.c
+|4,39,29,0,1637624877,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637624560,"~/lospollos.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  14  1  ~/pollocaculator.c
+|4,39,14,1,1637346873,"~/pollocaculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  1  0  ~/pollocalculator.c
+|4,39,1,0,1637346865,"~/pollocalculator.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+-'  9  16  ~/lospollos.c
+|4,39,9,16,1637346852,"~/lospollos.c"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/pollocaculator.c
+	*	1637625443	0
+	"	15	0
+	^	15	1
+	.	15	0
+	+	12	56
+	+	10	0
+	+	9	45
+	+	5	29
+	+	9	49
+	+	12	56
+	+	15	0
+
+> ~/pollocalculator.c
+	*	1637625294	0
+	"	1	0
+
+> ~/pollomatico.c
+	*	1637625144	0
+	"	6	19
+	^	6	20
+	.	6	20
+	+	6	20
+
+> ~/lospollos.c
+	*	1637624584	0
+	"	29	0
+	^	29	0
+	.	28	1
+	+	3	37
+	+	31	3
+	+	31	0
+	+	8	0
+	+	9	15
+	+	30	16
+	+	9	6
+	+	8	6
+	+	2	14
+	+	5	10
+	+	9	12
+	+	4	12
+	+	5	25
+	+	6	22
+	+	7	10
+	+	6	9
+	+	7	10
+	+	6	9
+	+	4	4
+	+	6	9
+	+	7	10
+	+	4	14
+	+	5	26
+	+	9	18
+	+	5	27
+	+	18	1
+	+	28	1
+
+> ~/pollocaculator
+	*	1637345617	0
+	"	1	0
+	^	14	2
+	.	14	2
+	+	4	14
+	+	3	12
+	+	4	16
+	+	5	35
+	+	6	18
+	+	8	11
+	+	10	1
+	+	9	47
+	+	10	3
+	+	11	8
+	+	13	2
+	+	12	52
+	+	14	2
+
+> ~/lospollos
+	*	1637343596	0
+	"	1	0
+
+> ~/programa.c
+	*	1636740565	0
+	"	3	14
+	^	8	1
+	.	8	1
+	+	1	17
+	+	3	15
+	+	5	22
+	+	6	16
+	+	8	1
+	+	9	0
+	+	7	7
+	+	4	15
+	+	8	1
+
+> ~/Kevin
+	*	1636737963	0
+	"	3	57
+	^	4	0
+	.	3	58
+	+	2	10
+	+	3	0
+	+	3	59
+	+	3	58
