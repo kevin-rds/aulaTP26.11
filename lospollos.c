@@ -4,7 +4,8 @@ int main(void){
 	char nombre[20];
 	printf("\nDi mi nombre\n");
 	scanf("%s", &nombre);
-	printf("%s\n", nombre);
+	printf("\nMi nombre es ");
+	printf("%s", nombre);
 	printf("\n\n");
        	return(0);
 }
