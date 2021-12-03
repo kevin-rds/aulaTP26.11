@@ -231,3 +231,18 @@ vi pollocaculator.c
 ls
 cd /.git
 git init
+git remote add origin https://github.com/kevin-rds/aulaTP26.11.git
+ls
+git branch -M main
+git add .
+git commit -m "pollosnuevos"
+git config --global user.name "Kevin"
+git config --global user.email "kevinrn04@gmail.com"
+git commit -m "pollosnuevos"
+git push origin main
+git status
+git add .
+git status
+git commit -m "oloko meu"
+git status
+git push origin main
